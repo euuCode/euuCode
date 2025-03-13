@@ -1,6 +1,5 @@
-# eai? esse é meu baú de projetos!
+# eai? seja bem-vindo ao meu git
 
-Sou um apaixonado por tecnologia, cibersegurança e desenvolvimento de software. Atualmente, trabalho com análise e desenvolvimento de sistemas e estou sempre buscando aprender mais sobre segurança da informação.  
 
 ## 🚀 Tecnologias que eu trabalho:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
