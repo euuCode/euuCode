@@ -26,6 +26,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euuCode&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euuCode&show_icons=true&theme=radical)
 
-[[<div align="center">
-  <img src="](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)" width="300"/>
-</div>]
+<div align="center">
+  <img src="https://media.giphy.com/media/26gR2B2x1Z9p3fWv8I/giphy.gif" width="300"/>
+</div>
