@@ -13,6 +13,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-6A0DAD?style=for-the-badge&logo=hack-the-box&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-FF4500?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-FF69B4?style=for-the-badge&logo=hydra&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-EF4836?style=for-the-badge&logo=metasploit&logoColor=white)
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
