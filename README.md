@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/euuCode/euuCode/refs/heads/main/anonymous.webp" width="200">
 </p>
 
-# seja bem-vindo ao meu git!
+# Seja bem-vindo ao meu GIT!
 
 
 ## 🚀 Tecnologias que eu trabalho:
