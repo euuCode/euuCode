@@ -22,10 +22,10 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euuCode&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euuCode&show_icons=true&theme=radical)
+
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 </div>
-
-## 📊 Minhas Estatísticas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euuCode&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euuCode&show_icons=true&theme=radical)
