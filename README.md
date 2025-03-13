@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Anonymous_emblem.svg/1200px-Anonymous_emblem.svg.png" width="150">
+  <img src="https://i.imgur.com/baIRpbf.png" width="150">
 </p>
 # seja bem-vindo ao meu git!
 
