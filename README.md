@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/baIRpbf.png" width="150">
+  <img src="https://i.imgur.com/mRRbCFL.png" width="150">
 </p>
+
 # seja bem-vindo ao meu git!
 
 
