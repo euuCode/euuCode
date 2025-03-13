@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVlNHBuM2xicXNyZXUxZGJla2lodm43eTVjaDZkYXVwenM3cnJzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="200">
+  <img src="https://github.com/euuCode/euuCode/blob/main/giphy-unscreen.gif?raw=true" width="200">
 </p>
 
 # Seja bem-vindo ao meu GIT!
