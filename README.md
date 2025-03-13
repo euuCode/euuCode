@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/mRRbCFL.png" width="150">
+  <img src="(https://raw.githubusercontent.com/euuCode/euuCode/refs/heads/main/anonymous.webp)" width="200">
 </p>
 
 # seja bem-vindo ao meu git!
