@@ -17,6 +17,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-FF69B4?style=for-the-badge&logo=hydra&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-EF4836?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
