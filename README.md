@@ -27,5 +27,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euuCode&show_icons=true&theme=radical)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26gR2B2x1Z9p3fWv8I/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7TKz2bH9t0zKqX8k/giphy.gif" width="300"/>
 </div>
