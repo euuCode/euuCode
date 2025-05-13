@@ -40,7 +40,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 
 ## 🌍 Idiomas
 
-- **Português** (nativo)  
+- **Português_Brasil** (nativo)  
 - **Inglês** (Técnico)
 
 ---
