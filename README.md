@@ -41,7 +41,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 ## 🌍 Idiomas
 
 - **Português** (nativo)  
-- **Inglês** (intermediário – leitura técnica e escrita)
+- **Inglês** (Técnico)
 
 ---
 
