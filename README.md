@@ -38,12 +38,71 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 
 ---
 
+## 📜 Certificações
+
+<details>
+  <summary><strong>🔐 Cibersegurança</strong></summary>
+
+- Cybersecurity Fundamentals – IBM  
+- Endpoint Security – Cisco  
+- Ethical Hacker – Cisco  
+- Junior Cybersecurity Analyst – Cisco  
+- Introduction to Cybersecurity – Cisco  
+- Sistemas Computacionais e Segurança – Centro Universitário Una  
+
+</details>
+
+<details>
+  <summary><strong>☁️ Computação em Nuvem</strong></summary>
+
+- AWS Academy Graduate – Cloud Foundations – AWS  
+- Fundamentos de Computação em Nuvem na AWS – DIO  
+- US Green Software Development – Green Software Foundation  
+
+</details>
+
+<details>
+  <summary><strong>👨‍💻 Programação & Desenvolvimento</strong></summary>
+
+- Programação Orientada a Objetos com Java – DIO  
+- Aprendendo a Sintaxe Java – DIO  
+- Python Essentials 1 – Cisco  
+- Python Essentials 2 – Cisco  
+- Introdução ao Desenvolvimento Moderno de Software – DIO  
+- Princípios de Desenvolvimento de Software – DIO  
+- Modelagem de Software – Centro Universitário Una  
+- Programação de Soluções Computacionais – Centro Universitário Una  
+
+</details>
+
+<details>
+  <summary><strong>🛠️ Ferramentas & Fundamentos</strong></summary>
+
+- Introdução ao Git e ao GitHub – DIO  
+- Ambientes Computacionais e Conectividade – Centro Universitário Una  
+- Introdução à Programação e Pensamento Computacional – DIO  
+
+</details>
+
+<details>
+  <summary><strong>🌐 Inglês Técnico</strong></summary>
+
+- English for IT 1 – Cisco  
+- English for IT 2 – Cisco  
+
+</details>
+
+<p><em>📎 Para visualizar os certificados completos, acesse meu <a href="https://linkedin.com/in/marcio-ferreira01/" target="_blank">LinkedIn</a>.</em></p>
+
+---
+
 ## 🌍 Idiomas
 
 - **Português_Brasil** (nativo)  
 - **Inglês** (Técnico)
 
 ---
+
 
 ## 📊 GitHub Stats
 
