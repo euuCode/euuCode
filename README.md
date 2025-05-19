@@ -3,10 +3,8 @@
 </p>
 
 #  Ambiente Controlado
-01100001 01101100 01100101 01110010 01110100 01100001
 
-
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, especialmente nas áreas de **cibersegurança**, **desenvolvimento web** e **automação de processos**. Aqui compartilho meus projetos, aprendizados e ferramentas que utilizo para resolver problemas reais.
+Sou estudante de Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente nas áreas de **cibersegurança**, **desenvolvimento web** e **automação de processos**. Aqui compartilho meus projetos, linhas de raciocinios, e tudo oque eu acho que pode agregar em algo. Bem vindo a minha trajetoria como profissional da Tecnologia
 
 ---
 
