@@ -43,12 +43,13 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 <details>
   <summary><strong>🔐 Cibersegurança </strong></summary>
 
+- Sistemas Computacionais e Segurança – Centro Universitário Una  
+- Introduction to Cybersecurity – Cisco
 - Cybersecurity Fundamentals – IBM  
 - Endpoint Security – Cisco  
 - Ethical Hacker – Cisco  
-- Junior Cybersecurity Analyst – Cisco  
-- Introduction to Cybersecurity – Cisco  
-- Sistemas Computacionais e Segurança – Centro Universitário Una  
+- Junior Cybersecurity Analyst – Cisco    
+
 
 </details>
 
