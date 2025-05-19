@@ -41,7 +41,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 ## 📜 Certificações
 
 <details>
-  <summary><strong>🔐 Cibersegurança</strong></summary>
+  <summary><strong>🔐 Cibersegurança (clique para ver)</strong></summary>
 
 - Cybersecurity Fundamentals – IBM  
 - Endpoint Security – Cisco  
@@ -53,7 +53,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 </details>
 
 <details>
-  <summary><strong>☁️ Computação em Nuvem</strong></summary>
+  <summary><strong>☁️ Computação em Nuvem  (clique para ver)</strong></summary>
 
 - AWS Academy Graduate – Cloud Foundations – AWS  
 - Fundamentos de Computação em Nuvem na AWS – DIO  
@@ -62,7 +62,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 </details>
 
 <details>
-  <summary><strong>👨‍💻 Programação & Desenvolvimento</strong></summary>
+  <summary><strong>👨‍💻 Programação & Desenvolvimento  (clique para ver)</strong></summary>
 
 - Programação Orientada a Objetos com Java – DIO  
 - Aprendendo a Sintaxe Java – DIO  
@@ -76,7 +76,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 </details>
 
 <details>
-  <summary><strong>🛠️ Ferramentas & Fundamentos</strong></summary>
+  <summary><strong>🛠️ Ferramentas & Fundamentos  (clique para ver)</strong></summary>
 
 - Introdução ao Git e ao GitHub – DIO  
 - Ambientes Computacionais e Conectividade – Centro Universitário Una  
@@ -85,7 +85,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 </details>
 
 <details>
-  <summary><strong>🌐 Inglês Técnico</strong></summary>
+  <summary><strong>🌐 Inglês Técnico  (clique para ver)</strong></summary>
 
 - English for IT 1 – Cisco  
 - English for IT 2 – Cisco  
