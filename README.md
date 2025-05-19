@@ -35,6 +35,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, vidrado por tecnologia,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-0085CA?style=for-the-badge&logo=parrot-security&logoColor=white)
 
 ---
 
