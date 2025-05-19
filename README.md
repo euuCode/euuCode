@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/euuCode/euuCode/refs/heads/main/anonymous.webp" width="200">
 </p>
 
-#  Ambiente de Desenvolvimento Controlado
+#  Ambiente Controlado
+01100001 01101100 01100101 01110010 01110100 01100001
+
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, especialmente nas áreas de **cibersegurança**, **desenvolvimento web** e **automação de processos**. Aqui compartilho meus projetos, aprendizados e ferramentas que utilizo para resolver problemas reais.
 
