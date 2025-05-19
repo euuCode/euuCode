@@ -59,7 +59,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, vidrado por tecnologia,
 
 - AWS Academy Graduate – Cloud Foundations – AWS  
 - Fundamentos de Computação em Nuvem na AWS – DIO  
-- US Green Software Development – Green Software Foundation  
+- US Green Software Development – Green Software Foundation
+- PT-BR Green Software Development – Green Software Foundation  
 
 </details>
 
