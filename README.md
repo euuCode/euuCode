@@ -7,11 +7,11 @@
 ![Estudando](https://img.shields.io/badge/Estudando-ISO%2027001%2C%20Ingl%C3%AAs%20Avan%C3%A7ado%2C%20Java%20SpringBoot-blue?style=flat-square)
 ![Foco](https://img.shields.io/badge/Foco-Cybersecurity%2C%20DevWeb%2C%20Automa%C3%A7%C3%A3o-yellow?style=flat-square)
 
-Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente nas áreas de **cibersegurança**, **desenvolvimento web** e **automação de processos**. Aqui compartilho meus projetos, linhas de raciocinios, e tudo oque eu acho que pode agregar em algo. Bem vindo a minha trajetoria como profissional da Tecnologia
+Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente nas áreas de **cibersegurança**, **desenvolvimento web** e **automação de processos**. Aqui compartilho meus projetos, linhas de raciocinios, e tudo oque eu acho que pode agregar em algo. Bem vindo a minha trajetoria como profissional da Tecnologia...
 
 ---
 
-## 🚀 Tecnologias com as quais trabalho:
+#  Tecnologias com as quais trabalho:
 
 ### 💻 Desenvolvimento
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -42,7 +42,7 @@ Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente na
 
 ---
 
-## 📜 Certificações (Clique no topico de interesse)
+# 📜 Certificações (Clique no topico de interesse)
 
 <details>
   <summary><strong>🔐 Cibersegurança </strong></summary>
@@ -101,7 +101,7 @@ Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente na
 
 ---
 
-## 🌍 Idiomas
+# 🌍 Idiomas
 
 - **Português_Brasil** (nativo)  
 - **Inglês** (Técnico)
@@ -109,14 +109,14 @@ Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente na
 ---
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euuCode&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euuCode&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-ferreira01/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/euumarcin)  
