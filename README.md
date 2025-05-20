@@ -67,11 +67,10 @@ Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente na
 <details>
   <summary><strong>👨‍💻 Programação & Desenvolvimento </strong></summary>
 
-- Programação Orientada a Objetos com Java – DIO  
-- Aprendendo a Sintaxe Java – DIO  
+- Programação Orientada a Objetos com Java – DIO    
 - Python Essentials 1 – Cisco  
 - Python Essentials 2 – Cisco  
-- Introdução ao Desenvolvimento Moderno de Software – DIO  
+- Desenvolvimento Moderno de Software – DIO  
 - Princípios de Desenvolvimento de Software – DIO  
 - Modelagem de Software – Centro Universitário Una  
 - Programação de Soluções Computacionais – Centro Universitário Una  
