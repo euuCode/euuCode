@@ -111,8 +111,8 @@ Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente na
 
 # 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euuCode&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euuCode&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euuCode&layout=compact&theme=dracula&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euuCode&show_icons=true&theme=dracula&hide_border=true)
 
 ---
 
