@@ -2,11 +2,10 @@
   <img src="https://raw.githubusercontent.com/euuCode/euuCode/refs/heads/main/anonymous.webp" width="200">
 </p>
 
-![Estudando](https://img.shields.io/badge/Estudando-ISO%2027001%2C%20Ingl%C3%AAs%20Avan%C3%A7ado%2C%20Java%20SpringBoot-blue?style=flat-square)
-![Foco](https://img.shields.io/badge/Foco-Cybersecurity%2C%20DevWeb%2C%20Automa%C3%A7%C3%A3o-yellow?style=flat-square)
-![Seguidores](https://img.shields.io/github/followers/euuCode?style=flat-square)
 
 #  Ambiente Controlado
+![Estudando](https://img.shields.io/badge/Estudando-ISO%2027001%2C%20Ingl%C3%AAs%20Avan%C3%A7ado%2C%20Java%20SpringBoot-blue?style=flat-square)
+![Foco](https://img.shields.io/badge/Foco-Cybersecurity%2C%20DevWeb%2C%20Automa%C3%A7%C3%A3o-yellow?style=flat-square)
 
 Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente nas áreas de **cibersegurança**, **desenvolvimento web** e **automação de processos**. Aqui compartilho meus projetos, linhas de raciocinios, e tudo oque eu acho que pode agregar em algo. Bem vindo a minha trajetoria como profissional da Tecnologia
 
