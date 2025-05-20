@@ -41,16 +41,21 @@ Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente na
 
 ---
 
-# 📜 Certificações (Clique no tópico de interesse)
+# Certificações (Clique no tópico de interesse)
 
 <details>
   <summary><strong>🔐 Cibersegurança </strong></summary>
 
 - Sistemas Computacionais e Segurança – Centro Universitário Una  
+
 - Introduction to Cybersecurity – Cisco  
+
 - Cybersecurity Fundamentals – IBM  
+
 - Endpoint Security – Cisco  
+
 - Ethical Hacker – Cisco  
+
 - Junior Cybersecurity Analyst – Cisco    
 
 </details>
@@ -59,8 +64,11 @@ Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente na
   <summary><strong>☁️ Computação em Nuvem </strong></summary>
 
 - AWS Academy Graduate – Cloud Foundations – AWS  
+
 - Fundamentos de Computação em Nuvem na AWS – DIO  
+
 - US Green Software Development – Green Software Foundation  
+
 - PT-BR Green Software Development – Green Software Foundation  
 
 </details>
@@ -68,12 +76,19 @@ Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente na
 <details>
   <summary><strong>👨‍💻 Programação & Desenvolvimento </strong></summary>
 
+
 - Programação Orientada a Objetos com Java – DIO  
+
 - Python Essentials 1 – Cisco  
+
 - Python Essentials 2 – Cisco  
+
 - Desenvolvimento Moderno de Software – DIO  
+
 - Princípios de Desenvolvimento de Software – DIO  
+
 - Modelagem de Software – Centro Universitário Una  
+
 - Programação de Soluções Computacionais – Centro Universitário Una  
 
 </details>
@@ -82,7 +97,9 @@ Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente na
   <summary><strong>🛠️ Ferramentas & Fundamentos </strong></summary>
 
 - Introdução ao Git e ao GitHub – DIO  
+
 - Ambientes Computacionais e Conectividade – Centro Universitário Una  
+
 - Programação e Pensamento Computacional – DIO & UNA
 
 </details>
@@ -91,6 +108,7 @@ Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente na
   <summary><strong>🌐 Inglês Técnico </strong></summary>
 
 - English for IT 1 – Cisco  
+
 - English for IT 2 – Cisco  
 
 </details>
