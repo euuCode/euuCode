@@ -82,7 +82,7 @@ Análise e Desenvolvimento de Sistemas, vidrado por tecnologia, especialmente na
 
 - Introdução ao Git e ao GitHub – DIO  
 - Ambientes Computacionais e Conectividade – Centro Universitário Una  
-- Introdução à Programação e Pensamento Computacional – DIO  
+- Programação e Pensamento Computacional – DIO & UNA
 
 </details>
 
