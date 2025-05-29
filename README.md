@@ -74,6 +74,7 @@ Análise e Desenvolvimento de Sistemas, focado em tecnologia, especialmente nas 
 - Programação Orientada a Objetos com Java – DIO  
 - Python Essentials 1 – Cisco  
 - Python Essentials 2 – Cisco  
+-Fundamentos de Data Science e Inteligência Artificial -Data Science Academy 
 - Desenvolvimento Moderno de Software – DIO  
 - Princípios de Desenvolvimento de Software – DIO  
 - Modelagem de Software – Centro Universitário Una  
