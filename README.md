@@ -60,7 +60,8 @@ Sou Analista e Desenvolvedor de Sistemas apaixonado por **cibersegurança, desen
   <summary><strong>🔐 Cibersegurança</strong></summary>
 
 - Cisco: Introduction to Cybersecurity, Ethical Hacker, Endpoint Security, Junior Cybersecurity Analyst  
-- IBM: Cybersecurity Fundamentals  
+- IBM: Cybersecurity Fundamentals, **Data Privacy Fundamentals**  
+- Google: **Google Cybersecurity**  
 - Una: Sistemas Computacionais e Segurança  
 </details>
 
