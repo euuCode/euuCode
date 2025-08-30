@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/euuCode/euuCode/refs/heads/main/anonymous.webp" width="200">
 </p>
 
-<h1 align="center">Ambiente Controlado 🚨</h1>
+<h1 align="center">Ambiente Controlado </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Foco-Cybersecurity%2C%20DevWeb%2C%20Automa%C3%A7%C3%A3o-7E57C2?style=flat-square&logo=target&logoColor=white"/>
