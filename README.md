@@ -2,20 +2,21 @@
   <img src="https://raw.githubusercontent.com/euuCode/euuCode/refs/heads/main/anonymous.webp" width="200">
 </p>
 
-<h1 align="center">Ambiente Controlado </h1>
+<h1 align="center">Controlled Environment</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Foco-Cybersecurity%2C%20DevWeb%2C%20Automa%C3%A7%C3%A3o-7E57C2?style=flat-square&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Certifica%C3%A7%C3%B5es-ISO%2027001%2C%20AWS%20Cloud%2C%20IBM%20Cybersecurity-5E35B1?style=flat-square&logo=certified&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%2C%20WebDev%2C%20Automation-7E57C2?style=flat-square&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Certifications-ISO%2027001%2C%20AWS%20Cloud%2C%20IBM%20Cybersecurity-5E35B1?style=flat-square&logo=certified&logoColor=white"/>
 </p>
 
-Sou Analista e Desenvolvedor de Sistemas apaixonado por **cibersegurança, desenvolvimento web moderno e automação de processos**. Aqui compartilho meus projetos, aprendizados e ferramentas que moldam minha jornada na tecnologia. 🚀
+I am a **Systems Analyst and Developer** passionate about **cybersecurity, modern web development, and process automation**.  
+Here I share my projects, knowledge, and the tools that shape my journey in technology. 🚀
 
 ---
 
-## 🛠️ Tecnologias com as quais trabalho
+## 🛠️ Technologies I Work With
 
-### 💻 Desenvolvimento
+### 💻 Development
 
 ![Java](https://img.shields.io/badge/Java-9933CC?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-8E24AA?style=flat-square&logo=spring-boot&logoColor=white)
@@ -25,7 +26,7 @@ Sou Analista e Desenvolvedor de Sistemas apaixonado por **cibersegurança, desen
 ![React](https://img.shields.io/badge/React-8E24AA?style=flat-square&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-6A1B9A?style=flat-square&logo=html5&logoColor=white)
 
-### 🛡️ Cibersegurança
+### 🛡️ Cybersecurity
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-9C27B0?style=flat-square&logo=tryhackme&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/HTB-7B1FA2?style=flat-square&logo=hack-the-box&logoColor=white)
@@ -40,13 +41,13 @@ Sou Analista e Desenvolvedor de Sistemas apaixonado por **cibersegurança, desen
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-7B1FA2?style=flat-square&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-7B1FA2?style=flat-square&logo=parrot-security&logoColor=white)
 
-### 🧠 Scripts & Bancos de Dados
+### 🧠 Scripting & Databases
 
 ![SQL](https://img.shields.io/badge/SQL-6A1B9A?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-7B1FA2?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-8E24AA?style=flat-square&logo=powershell&logoColor=white)
 
-### 🖥️ Sistemas Operacionais
+### 🖥️ Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-7B1FA2?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-6A1B9A?style=flat-square&logo=windows&logoColor=white)
@@ -54,55 +55,55 @@ Sou Analista e Desenvolvedor de Sistemas apaixonado por **cibersegurança, desen
 
 ---
 
-## 📜 Certificações
+## 📜 Certifications
 
 <details>
-  <summary><strong>🔐 Cibersegurança</strong></summary>
+  <summary><strong>🔐 Cybersecurity</strong></summary>
 
 - Cisco: Introduction to Cybersecurity, Ethical Hacker, Endpoint Security, Junior Cybersecurity Analyst  
 - IBM: Cybersecurity Fundamentals, **Data Privacy Fundamentals**  
 - Google: **Google Cybersecurity**  
-- Una: Sistemas Computacionais e Segurança  
+- Una: Computer Systems and Security  
 </details>
 
 <details>
-  <summary><strong>☁️ Computação em Nuvem</strong></summary>
+  <summary><strong>☁️ Cloud Computing</strong></summary>
 
 - AWS Academy – Cloud Foundations  
-- DIO – Fundamentos AWS  
+- DIO – AWS Fundamentals  
 - Green Software Foundation – Green Software (EN & PT-BR)  
 </details>
 
 <details>
-  <summary><strong>💡 Programação & Desenvolvimento</strong></summary>
+  <summary><strong>💡 Programming & Development</strong></summary>
 
-- OOP com Java – DIO  
+- OOP with Java – DIO  
 - Python Essentials 1 & 2 – Cisco  
-- Fundamentos de Data Science – DSA  
-- Desenvolvimento Moderno e Modelagem de Software – DIO & Una  
+- Data Science Fundamentals – DSA  
+- Modern Development and Software Modeling – DIO & Una  
 </details>
 
 <details>
-  <summary><strong>🛠️ Ferramentas & Fundamentos</strong></summary>
+  <summary><strong>🛠️ Tools & Fundamentals</strong></summary>
 
-- Git e GitHub – DIO  
-- Conectividade e Ambientes Computacionais – Una  
+- Git and GitHub – DIO  
+- Connectivity and Computational Environments – Una  
 </details>
 
 <details>
-  <summary><strong>🗣️ Inglês Técnico</strong></summary>
+  <summary><strong>🗣️ Technical English</strong></summary>
 
 - English for IT 1 & 2 – Cisco  
 </details>
 
-🔗 Veja todos os certificados no meu [LinkedIn](https://linkedin.com/in/marcio-ferreira01/)
+🔗 Check out all certificates on my [LinkedIn](https://linkedin.com/in/marcio-ferreira01/)
 
 ---
 
-## 🌐 Idiomas
+## 🌐 Languages
 
-- 🇧🇷 Português (Nativo)  
-- 🇺🇸 Inglês Técnico  
+- 🇧🇷 Portuguese (Native)  
+- 🇺🇸 Technical English  
 
 ---
 
@@ -113,7 +114,7 @@ Sou Analista e Desenvolvedor de Sistemas apaixonado por **cibersegurança, desen
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/marcio-ferreira01/)  
 - [Instagram](https://instagram.com/euumarcin)  
@@ -121,4 +122,4 @@ Sou Analista e Desenvolvedor de Sistemas apaixonado por **cibersegurança, desen
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Se curtir algum projeto, deixa uma estrela ou me chama pra trocar uma ideia.
+⭐ Thanks for visiting my profile! If you like any of my projects, feel free to leave a star or reach out for a chat.
