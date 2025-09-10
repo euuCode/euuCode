@@ -1,15 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/euuCode/euuCode/refs/heads/main/anonymous.webp" width="200">
-</p>
-
-<h1 align="center">Controlled Environment</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity%2C%20WebDev%2C%20Automation-7E57C2?style=flat-square&logo=target&logoColor=white"/>
   <img src="https://img.shields.io/badge/Certifications-ISO%2027001%2C%20AWS%20Cloud%2C%20IBM%20Cybersecurity-5E35B1?style=flat-square&logo=certified&logoColor=white"/>
 </p>
 
-I am a **Systems Analyst and Developer** passionate about **cybersecurity, modern web development, and process automation**.  
+ **Systems Analyst and Developer** passionate about **cybersecurity, modern web development, and process automation**.  
 Here I share my projects, knowledge, and the tools that shape my journey in technology. 🚀
 
 ---
