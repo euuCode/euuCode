@@ -57,7 +57,6 @@ Here I share my projects, knowledge, and the tools that shape my journey in tech
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euuCode&layout=compact&theme=dracula&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euuCode&show_icons=true&theme=dracula&hide_border=true)
 
 ---
 
