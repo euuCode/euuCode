@@ -1,3 +1,4 @@
+![euucode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=euucode&theme=dark&hide_border=true)
 <div align="center">   
 
 <table align="center" width="100%" style="margin: 0 auto; border-spacing: 0;"> 
