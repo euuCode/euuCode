@@ -1,4 +1,7 @@
-![euucode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=euucode&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euucode&theme=dark&hide_border=true" alt="euucode's Streak" />
+</p>
+
 <div align="center">   
 
 <table align="center" width="100%" style="margin: 0 auto; border-spacing: 0;"> 
